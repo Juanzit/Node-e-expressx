@@ -1,0 +1,4 @@
+npm init - iniciar o npm
+npm install express - baixar o express
+npm install -g nodemon --user - isso pode ajudar no desenvolvimento da aplicação
+node main.js - inicia o codigo
